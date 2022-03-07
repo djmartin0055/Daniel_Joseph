@@ -1,1 +1,1 @@
-RewriteCond %{HTTP_HOST} ^(.\*)$ http://danieljoseph.gq/$1 [L,R=301]
+redirect 301 https://www.danieljoseph.gq/ danieljoseph.gq
