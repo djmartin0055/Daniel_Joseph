@@ -2,6 +2,6 @@
 
 ## break me
 
-## Am i caching this?
-Waiting two minutes....
+## DNS week
+partial c name 
 
